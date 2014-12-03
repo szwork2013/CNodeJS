@@ -1,4 +1,6 @@
 CNodeJS
 =======
 
-An iOS App for cnodejs.org
+An iOS App for [CNodejs].
+
+[CNodejs]:https://cnodejs.org
